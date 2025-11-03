@@ -15,6 +15,8 @@ Script de predicción en tiempo real → [digits.py](./digits.py)
 
 Documentación del proyecto → [README.md](./README.md)
 
+Imágenes de prueba → [Fotos/](./Fotos/)
+
 Metodología implementada
 Entrenamiento del modelo con el dataset MNIST
 
